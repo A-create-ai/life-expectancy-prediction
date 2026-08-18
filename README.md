@@ -38,13 +38,19 @@ The project also explores relationships between different factors and life expec
 
 ### Schooling vs Life Expectancy
 
+![Schooling vs Life Expectancy](schooling_vs_life_expectancy.png)
+
 This visualization explores the relationship between schooling and life expectancy.
 
 ### GDP vs Life Expectancy
 
+![GDP vs Life Expectancy](gdp_vs_life_expectancy.png)
+
 This visualization explores the relationship between GDP and life expectancy.
 
 ### HIV/AIDS vs Life Expectancy
+
+![HIV/AIDS vs Life Expectancy](hiv_aids_vs_life_expectancy.png)
 
 This visualization explores the relationship between HIV/AIDS and life expectancy.
 
