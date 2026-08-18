@@ -2,20 +2,33 @@
 
 ## About the Project
 
-This project uses machine learning to predict life expectancy based on selected health and lifestyle factors.
+This project uses machine learning to predict life expectancy based on health, economic, and social factors.
+
+The project uses a real-world dataset containing information about countries and health-related indicators.
 
 ## Technologies
 
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 
-## Goal
+## Machine Learning Model
 
-The goal of this project is to explore how health and lifestyle factors can be used to build a machine learning model for predicting life expectancy.
+A Linear Regression model is used to predict life expectancy.
 
-## Status
+The dataset is divided into training and testing sets. The model is evaluated using:
 
-🚧 Project in development
+- Mean Absolute Error (MAE)
+- R² Score
+
+## Results
+
+- MAE: 2.8 years
+- R² Score: 0.81
+
+These results are based on the test set used in this project.
+
+## Project Status
+
+Completed basic machine learning model and evaluation.
