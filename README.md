@@ -62,3 +62,24 @@ The Linear Regression model achieved:
 - R² Score: 0.81
 
 The model was evaluated using a separate test set that was not used during training.
+## What I Learned
+
+Through this project, I learned how to:
+
+- Work with a real-world dataset.
+- Clean and prepare data for machine learning.
+- Split data into training and testing sets.
+- Build a Linear Regression model.
+- Evaluate a machine learning model using MAE and R².
+- Visualize relationships between variables.
+- Document and publish a machine learning project on GitHub.
+
+## Future Improvements
+
+In future versions, I would like to:
+
+- Test different machine learning algorithms.
+- Improve the model's performance.
+- Perform more detailed feature analysis.
+- Experiment with additional data preprocessing techniques.
+- Compare different models and their results.
