@@ -83,3 +83,10 @@ In future versions, I would like to:
 - Perform more detailed feature analysis.
 - Experiment with additional data preprocessing techniques.
 - Compare different models and their results.
+## How to Run
+
+1. Clone or download this repository.
+2. Install the required Python libraries:
+
+```bash
+pip install pandas matplotlib scikit-learn
