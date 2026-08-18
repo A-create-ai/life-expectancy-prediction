@@ -32,3 +32,27 @@ These results are based on the test set used in this project.
 ## Project Status
 
 Completed basic machine learning model and evaluation.
+## Data Analysis
+
+The project also explores relationships between different factors and life expectancy.
+
+### Schooling vs Life Expectancy
+
+This visualization explores the relationship between schooling and life expectancy.
+
+### GDP vs Life Expectancy
+
+This visualization explores the relationship between GDP and life expectancy.
+
+### HIV/AIDS vs Life Expectancy
+
+This visualization explores the relationship between HIV/AIDS and life expectancy.
+
+## Model Evaluation
+
+The Linear Regression model achieved:
+
+- Mean Absolute Error (MAE): 2.8
+- R² Score: 0.81
+
+The model was evaluated using a separate test set that was not used during training.
